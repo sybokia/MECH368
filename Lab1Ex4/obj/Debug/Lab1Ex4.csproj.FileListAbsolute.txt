@@ -1,0 +1,10 @@
+C:\Users\sibow\source\repos\Lab1Ex4\bin\Debug\Lab1Ex4.exe.config
+C:\Users\sibow\source\repos\Lab1Ex4\bin\Debug\Lab1Ex4.exe
+C:\Users\sibow\source\repos\Lab1Ex4\bin\Debug\Lab1Ex4.pdb
+C:\Users\sibow\source\repos\Lab1Ex4\obj\Debug\Lab1Ex4.csprojAssemblyReference.cache
+C:\Users\sibow\source\repos\Lab1Ex4\obj\Debug\Lab1Ex4.Properties.Resources.resources
+C:\Users\sibow\source\repos\Lab1Ex4\obj\Debug\Lab1Ex4.csproj.GenerateResource.cache
+C:\Users\sibow\source\repos\Lab1Ex4\obj\Debug\Lab1Ex4.csproj.CoreCompileInputs.cache
+C:\Users\sibow\source\repos\Lab1Ex4\obj\Debug\Lab1Ex4.exe
+C:\Users\sibow\source\repos\Lab1Ex4\obj\Debug\Lab1Ex4.pdb
+C:\Users\sibow\source\repos\Lab1Ex4\obj\Debug\Lab1Ex4.Lab1Ex4.resources

@@ -1,0 +1,10 @@
+C:\Users\sibow\source\repos\MECH368Lab1\bin\Debug\MECH368Lab1.exe.config
+C:\Users\sibow\source\repos\MECH368Lab1\bin\Debug\MECH368Lab1.exe
+C:\Users\sibow\source\repos\MECH368Lab1\bin\Debug\MECH368Lab1.pdb
+C:\Users\sibow\source\repos\MECH368Lab1\obj\Debug\MECH368Lab1.csprojAssemblyReference.cache
+C:\Users\sibow\source\repos\MECH368Lab1\obj\Debug\MECH368Lab1.Properties.Resources.resources
+C:\Users\sibow\source\repos\MECH368Lab1\obj\Debug\MECH368Lab1.csproj.GenerateResource.cache
+C:\Users\sibow\source\repos\MECH368Lab1\obj\Debug\MECH368Lab1.csproj.CoreCompileInputs.cache
+C:\Users\sibow\source\repos\MECH368Lab1\obj\Debug\MECH368Lab1.exe
+C:\Users\sibow\source\repos\MECH368Lab1\obj\Debug\MECH368Lab1.pdb
+C:\Users\sibow\source\repos\MECH368Lab1\obj\Debug\MECH368Lab1.frmMainWindow.resources
