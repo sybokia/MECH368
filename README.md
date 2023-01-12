@@ -1,2 +1,2 @@
 # MECH368 Labs
-Code scripts for labs on basic state machine, siganl processing, high/low-pass filters
+Code scripts for labs on basic state machine, signal processing, high/low-pass filters
